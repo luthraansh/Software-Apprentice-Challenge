@@ -1,0 +1,13 @@
+.filters {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.filters input, .filters select {
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
